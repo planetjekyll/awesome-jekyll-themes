@@ -7,9 +7,12 @@ Awesome Series @ Planet Jekyll
 
 
 
-# Awesome Jekyll Themes 
+# Awesome (Gem-Packaged) Jekyll Themes 
 
 A collection of awesome (gem-packaged) Jekyll themes 
+
+> Note: Starting with Jekyll 3.2+ Themes can get packaged up into Ruby gems.
+
 
 #### _Contributions welcome. Anything missing? Send in a pull request. Thanks._
 
@@ -21,7 +24,7 @@ See the [Themes Page @ Jekyll Docs](http://jekyllrb.com/docs/themes) ».
 
 ## Official Themes
 
-
+**Minima** (gem: [minima](https://rubygems.org/gems/minima) , github: [jekyll/minima](https://github.com/jekyll/minima)) -- a beautiful, minimal theme
 
 ## More Themes
 
