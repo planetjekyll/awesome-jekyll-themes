@@ -29,6 +29,8 @@ See the [(Gem-Packaged) Themes Page @ Jekyll Docs](http://jekyllrb.com/docs/them
 
 ## More Themes
 
+**Retlab** (gem: [retlab](https://rubygems.org/gems/retlab), github: [benbalter/retlab](https://github.com/benbalter/retlab)) by Ben Balter -- a minimalist theme for your personal site
+
 **Garth** (gem: [garth-jekyll-theme](https://rubygems.org/gems/garth-jekyll-theme), github: [daviddarnes/garth-jekyll-theme](https://github.com/daviddarnes/garth-jekyll-theme)) by David Darnes -- a stupidly simple theme
 
 
