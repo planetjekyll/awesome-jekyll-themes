@@ -34,6 +34,8 @@ See the [(Gem-Packaged) Themes Page @ Jekyll Docs](http://jekyllrb.com/docs/them
 **Garth** (gem: [garth-jekyll-theme](https://rubygems.org/gems/garth-jekyll-theme), github: [daviddarnes/garth-jekyll-theme](https://github.com/daviddarnes/garth-jekyll-theme)) by David Darnes -- a stupidly simple theme
 
 
+**Leonids** (gem: [leonids](https://rubygems.org/gems/leonids), github: [renyuanz/leonids](https://github.com/renyuanz/leonids)) by Renyuan Zou --  a simple and clean two columns theme
+
 ## Meta
 
 **License**
