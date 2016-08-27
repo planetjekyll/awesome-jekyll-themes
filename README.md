@@ -37,6 +37,17 @@ See the [(Gem-Packaged) Themes Page @ Jekyll Docs](http://jekyllrb.com/docs/them
 
 **Ace** (gem: [ace-theme](https://rubygems.org/gems/ace-theme), github: [aliou/ace](https://github.com/aliou/ace)) by Aliou Diallo 
 
+
+## GitHub Pages
+
+See [`pages.github.com/themes`](https://pages.github.com/themes) for supported "white-listed" gem-packaged themes you can use on GitHub Pages.
+
+
+## Find More
+
+Search BestGems.org for [`jekyll+theme`](http://bestgems.org/search?q=jekyll+theme) to find more themes.
+
+
 ## Meta
 
 **License**
