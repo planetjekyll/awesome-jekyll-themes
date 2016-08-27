@@ -24,18 +24,18 @@ See the [(Gem-Packaged) Themes Page @ Jekyll Docs](http://jekyllrb.com/docs/them
 
 ## Official Themes
 
-**Minima** (gem: [minima](https://rubygems.org/gems/minima) , github: [jekyll/minima](https://github.com/jekyll/minima))  by Joel Glovier, Parker Moore et al -- a beautiful, minimal theme
+**Minima** ★73 (gem: [minima](https://rubygems.org/gems/minima) , github: [jekyll/minima](https://github.com/jekyll/minima))  by Joel Glovier, Parker Moore et al -- a beautiful, minimal theme
 
 
 ## More Themes
 
-**Retlab** (gem: [retlab](https://rubygems.org/gems/retlab), github: [benbalter/retlab](https://github.com/benbalter/retlab)) by Ben Balter -- a minimalist theme for your personal site
+**Leonids** ★136 (gem: [leonids](https://rubygems.org/gems/leonids), github: [renyuanz/leonids](https://github.com/renyuanz/leonids)) by Renyuan Zou --  a simple and clean two columns theme
 
-**Garth** (gem: [garth-jekyll-theme](https://rubygems.org/gems/garth-jekyll-theme), github: [daviddarnes/garth-jekyll-theme](https://github.com/daviddarnes/garth-jekyll-theme)) by David Darnes -- a stupidly simple theme
+**Garth** ★7 (gem: [garth-jekyll-theme](https://rubygems.org/gems/garth-jekyll-theme), github: [daviddarnes/garth-jekyll-theme](https://github.com/daviddarnes/garth-jekyll-theme)) by David Darnes -- a stupidly simple theme
 
-**Leonids** (gem: [leonids](https://rubygems.org/gems/leonids), github: [renyuanz/leonids](https://github.com/renyuanz/leonids)) by Renyuan Zou --  a simple and clean two columns theme
+**Retlab** ★4 (gem: [retlab](https://rubygems.org/gems/retlab), github: [benbalter/retlab](https://github.com/benbalter/retlab)) by Ben Balter -- a minimalist theme for your personal site
 
-**Ace** (gem: [ace-theme](https://rubygems.org/gems/ace-theme), github: [aliou/ace](https://github.com/aliou/ace)) by Aliou Diallo 
+**Ace** ★4 (gem: [ace-theme](https://rubygems.org/gems/ace-theme), github: [aliou/ace](https://github.com/aliou/ace)) by Aliou Diallo 
 
 
 ## GitHub Pages
