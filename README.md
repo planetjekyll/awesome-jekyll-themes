@@ -71,6 +71,7 @@ extremely well-documented (incl. a getting started guide and much much more) [Mi
 
 **Ace** ★4 (gem: [ace-theme](https://rubygems.org/gems/ace-theme), github: [aliou/ace](https://github.com/aliou/ace)) by Aliou Diallo 
 
+**Starving Artist** ★1 (gem: [starving-artist](https://rubygems.org/gems/starving-artist-jekyll-theme), github: [chrisanthropic/starving-artist-jekyll-theme](https://github.com/chrisanthropic/starving-artist-jekyll-theme) by Chris Tarwater -- a mobile friendly portfolio theme.
 
 ## GitHub Pages
 
