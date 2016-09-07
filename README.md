@@ -41,7 +41,7 @@ you can "graduate" to the master class, that is, using gem-packaged themes.
 
 Again gem-packaged themes are wonderful and welcome -- remember, however, the party is just getting started. 
 
-For some "classic" starter themes may I hightlight the Henry's themes:
+For some "classic" starter themes you may try some of Henry's themes:
 
 - [/jekyll-starter-theme](https://github.com/henrythemes/jekyll-starter-theme)
 - [/jekyll-starter-theme-v2](https://github.com/henrythemes/jekyll-starter-theme-v2)
