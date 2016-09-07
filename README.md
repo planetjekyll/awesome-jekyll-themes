@@ -35,7 +35,7 @@ From the ["Unofficial" Jekyll F.A.Q.](https://github.com/planetjekyll/quickrefs/
 Gem-packaged themes are just an advanced option and in addition they are in development 
 for (real world) experiments (e.g. think v0.1 as stated by the Ben Balter - the lead designer / manager / dev at GitHub).
 
-Thus, to conclude do NOT read to much into the official themes docs e.g. as the only or "right" way to design a theme. 
+Thus, to conclude do NOT read too much into the official themes docs e.g. as the only or "right" way to design a theme. 
 Just (continue to) use "classic" themes - there are hundreds to learn from and once you have masterd "classic" themes 
 you can "graduate" to the master class, that is, using gem-packaged themes.
 
