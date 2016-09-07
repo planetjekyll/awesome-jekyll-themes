@@ -30,6 +30,8 @@ From the ["Unofficial" Jekyll F.A.Q.](https://github.com/planetjekyll/quickrefs/
 
 **Q: How can I get started with gem-packaged themes?**
 
+or
+
 **Q: Do I need to package my theme into a gem?**
 
 Gem-packaged themes are just an advanced option and in addition they are in development 
