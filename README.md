@@ -22,9 +22,11 @@ A collection of awesome (gem-packaged) Jekyll themes
 See the [(Gem-Packaged) Themes Page @ Jekyll Docs](http://jekyllrb.com/docs/themes) ».
 
 
-### Intro
+### Intro / Disclaimer
 
-From the "Unofficial" Jekyll F.A.Q.
+_Gem-Packaged Themes vs. "Classic" Themes_
+
+From the ["Unofficial" Jekyll F.A.Q.](https://github.com/planetjekyll/quickrefs/blob/master/FAQ.md):
 
 **Q: How can I get started with gem-packaged themes?**
 
