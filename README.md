@@ -73,6 +73,8 @@ extremely well-documented (incl. a getting started guide and much much more) [Mi
 
 **Starving Artist** ★1 (gem: [starving-artist](https://rubygems.org/gems/starving-artist-jekyll-theme), github: [chrisanthropic/starving-artist-jekyll-theme](https://github.com/chrisanthropic/starving-artist-jekyll-theme) by Chris Tarwater -- a mobile friendly portfolio theme.
 
+**Minima Plus** ★1 (gem: [minima-plus](https://rubygems.org/gems/minima-plus), github: [StartZeroGnu/minima-plus](https://github.com/StartZeroGnu/minima-plus) by StartZeroGnu -- Theme for Jekyll (v.3.2) based on the official theme "minima" with some plugins installed.
+
 ## GitHub Pages
 
 See [`pages.github.com/themes`](https://pages.github.com/themes) for supported "white-listed" gem-packaged themes you can use on GitHub Pages.
