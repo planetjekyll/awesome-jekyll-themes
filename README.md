@@ -41,10 +41,13 @@ Thus, to conclude do NOT read too much into the official themes docs e.g. as the
 Just (continue to) use "classic" themes - there are hundreds to learn from and once you have mastered "classic" themes 
 you can "graduate" to the master class, that is, using gem-packaged themes.
 
-Again gem-packaged themes are wonderful and welcome -- remember, however, the party is just getting started. 
+Again gem-packaged themes are wonderful and welcome -- remember, however, the party is just getting started:
+
+- [/hello-minima-theme](https://github.com/henrythemes/hello-minima-theme)
 
 For some "classic" starter themes you may try some of Henry's themes:
 
+- [/hello-jekyll-theme](https://github.com/henrythemes/hello-jekyll-theme)
 - [/jekyll-starter-theme](https://github.com/henrythemes/jekyll-starter-theme)
 - [/jekyll-starter-theme-v2](https://github.com/henrythemes/jekyll-starter-theme-v2)
 - [/jekyll-minimal-theme](https://github.com/henrythemes/jekyll-minimal-theme)
