@@ -64,8 +64,15 @@ extremely well-documented (incl. a getting started guide and much much more) [Mi
 
 ## Official Themes
 
-**Minima** ★73 (gem: [minima](https://rubygems.org/gems/minima) , github: [jekyll/minima](https://github.com/jekyll/minima))  by Joel Glovier, Parker Moore et al -- a beautiful, minimal theme
+**Minima** ★112 
+(gem: [minima](https://rubygems.org/gems/minima), 
+ github: [jekyll/minima](https://github.com/jekyll/minima))  
+ by Joel Glovier, Parker Moore et al -- a beautiful, minimal theme
 
+**Swiss** ★35 
+(gem: [jekyll-swiss](https://rubygems.org/gems/jekyll-swiss), 
+ github: [broccolini/swiss](https://github.com/broccolini/swiss))
+ by Diana Mounter -- a bold typographic theme inspired by Swiss design
 
 ## More Themes
 
