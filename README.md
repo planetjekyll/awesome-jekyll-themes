@@ -11,6 +11,13 @@ Awesome Series @ Planet Jekyll
 
 A collection of awesome (gem-packaged) Jekyll themes 
 
+---
+
+ANNOUNCEMENT: Looking for awesome "classic" Jekyll themes? See the [Dr. Jekyll's Themes](https://drjekyllthemes.github.io)
+directory / listing.
+
+---
+
 
 #### _Contributions welcome. Anything missing? Send in a pull request. Thanks._
 
