@@ -73,6 +73,12 @@ extremely well-documented (incl. a getting started guide and much much more) [Mi
 (gem: [jekyll-swiss](https://rubygems.org/gems/jekyll-swiss),
  github: [broccolini/swiss](https://github.com/broccolini/swiss))
  by Diana Mounter -- a bold typographic theme inspired by Swiss design
+ 
+ **Athena** ★18
+(gem: [jekyll-athena](https://rubygems.org/gems/jekyll-athena),
+ github: [broccolini/athena](https://github.com/broccolini/athena))
+ by Diana Mounter -- a simple and elegant theme
+
 
 ## More Themes
 
