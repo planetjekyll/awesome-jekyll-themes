@@ -60,8 +60,6 @@ For the "state-of-the-art" what a "classic" theme can do - see the incredible be
 extremely well-documented (incl. a getting started guide and much much more) [Minimal Mikstake (MM) theme](https://github.com/mmistakes/minimal-mistakes) by Michael Rose. Happy Jekylling.
 
 
-
-
 ## Official Themes
 
 **Minima** ★112
@@ -82,6 +80,8 @@ extremely well-documented (incl. a getting started guide and much much more) [Mi
 
 ## More Themes
 
+**Minimal Mistakes** ★1316 (gem: [minimal-mistakes-jekyll](https://rubygems.org/gems/minimal-mistakes-jekyll), github: [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) by Michael Rose -- a flexible two-column theme
+
 **Leonids** ★136 (gem: [leonids](https://rubygems.org/gems/leonids), github: [renyuanz/leonids](https://github.com/renyuanz/leonids)) by Renyuan Zou --  a simple and clean two columns theme
 
 **Garth** ★7 (gem: [garth-jekyll-theme](https://rubygems.org/gems/garth-jekyll-theme), github: [daviddarnes/garth-jekyll-theme](https://github.com/daviddarnes/garth-jekyll-theme)) by David Darnes -- a stupidly simple theme
@@ -92,7 +92,8 @@ extremely well-documented (incl. a getting started guide and much much more) [Mi
 
 **Starving Artist** ★1 (gem: [starving-artist](https://rubygems.org/gems/starving-artist-jekyll-theme), github: [chrisanthropic/starving-artist-jekyll-theme](https://github.com/chrisanthropic/starving-artist-jekyll-theme) by Chris Tarwater -- a mobile friendly portfolio theme.
 
-**Writers Zone** ★1 (gem: [writers-zone](https://rubygems.org/gems/writers-zone), github: [StartZeroGnu/writers-zone](https://github.com/StartZeroGnu/writers-zone) by StartZeroGnu -- Theme for Jekyll (v.3.2) based on the official theme "minima" with some plugins installed.
+**Writers Zone** ★1 (gem: [writers-zone](https://rubygems.org/gems/writers-zone), github: [StartZeroGnu/writers-zone](https://github.com/StartZeroGnu/writers-zone) by StartZeroGnu -- theme based on the official minima" theme " with some plugins installed.
+
 
 ## GitHub Pages
 
