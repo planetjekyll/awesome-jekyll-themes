@@ -80,7 +80,7 @@ extremely well-documented (incl. a getting started guide and much much more) [Mi
 
 ## More Themes
 
-**Minimal Mistakes** ★1316 (gem: [minimal-mistakes-jekyll](https://rubygems.org/gems/minimal-mistakes-jekyll), github: [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) by Michael Rose -- a flexible two-column theme
+**Minimal Mistakes** ★1316 (gem: [minimal-mistakes-jekyll](https://rubygems.org/gems/minimal-mistakes-jekyll), github: [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes)) by Michael Rose -- a flexible two-column theme
 
 **Leonids** ★136 (gem: [leonids](https://rubygems.org/gems/leonids), github: [renyuanz/leonids](https://github.com/renyuanz/leonids)) by Renyuan Zou --  a simple and clean two columns theme
 
@@ -88,11 +88,15 @@ extremely well-documented (incl. a getting started guide and much much more) [Mi
 
 **Retlab** ★4 (gem: [retlab](https://rubygems.org/gems/retlab), github: [benbalter/retlab](https://github.com/benbalter/retlab)) by Ben Balter -- a minimalist theme for your personal site
 
+**Overkyll** ★4 (gem: [overkyll-jekyll-theme](https://rubygems.org/gems/overkyll-jekyll-theme), github: [bertrandkeller/overkyll-jekyll-theme](https://github.com/bertrandkeller/overkyll-jekyll-theme)) by Bertrand Keller -- 
+a simple starter theme with an ITCSS sass files organisation, a flexbox grid and modular typography
+
 **Ace** ★4 (gem: [ace-theme](https://rubygems.org/gems/ace-theme), github: [aliou/ace](https://github.com/aliou/ace)) by Aliou Diallo 
 
-**Starving Artist** ★1 (gem: [starving-artist](https://rubygems.org/gems/starving-artist-jekyll-theme), github: [chrisanthropic/starving-artist-jekyll-theme](https://github.com/chrisanthropic/starving-artist-jekyll-theme) by Chris Tarwater -- a mobile friendly portfolio theme.
+**Starving Artist** ★1 (gem: [starving-artist](https://rubygems.org/gems/starving-artist-jekyll-theme), github: [chrisanthropic/starving-artist-jekyll-theme](https://github.com/chrisanthropic/starving-artist-jekyll-theme)) by Chris Tarwater -- a mobile friendly portfolio theme.
 
-**Writers Zone** ★1 (gem: [writers-zone](https://rubygems.org/gems/writers-zone), github: [StartZeroGnu/writers-zone](https://github.com/StartZeroGnu/writers-zone) by StartZeroGnu -- theme based on the official minima" theme " with some plugins installed.
+**Writers Zone** ★1 (gem: [writers-zone](https://rubygems.org/gems/writers-zone), github: [StartZeroGnu/writers-zone](https://github.com/StartZeroGnu/writers-zone)) by StartZeroGnu -- theme based on the official minima" theme " with some plugins installed.
+
 
 
 ## GitHub Pages
