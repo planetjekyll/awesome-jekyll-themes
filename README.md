@@ -84,6 +84,8 @@ extremely well-documented (incl. a getting started guide and much much more) [Mi
 
 **Leonids** ★136 (gem: [leonids](https://rubygems.org/gems/leonids), github: [renyuanz/leonids](https://github.com/renyuanz/leonids)) by Renyuan Zou --  a simple and clean two columns theme
 
+**Neo-HPSTR** ★74 (gem: [neo-hpstr-jekyll-theme](https://rubygems.org/gems/neo-hpstr-jekyll-theme), github: [aron-bordin/neo-hpstr-jekyll-theme](https://github.com/aron-bordin/neo-hpstr-jekyll-theme)) by Aron Bordin --  a responsive and modern blog template.
+
 **Alembic** ★29 (gem: [alembic-jekyll-theme](https://rubygems.org/gems/alembic-jekyll-theme), github: [daviddarnes/alembic](https://github.com/daviddarnes/alembic)) by David Darnes -- a boilerplate theme
 
 **Garth** ★7 (gem: [garth-jekyll-theme](https://rubygems.org/gems/garth-jekyll-theme), github: [daviddarnes/garth-jekyll-theme](https://github.com/daviddarnes/garth-jekyll-theme)) by David Darnes -- a stupidly simple theme
