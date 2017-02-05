@@ -82,6 +82,8 @@ extremely well-documented (incl. a getting started guide and much much more) [Mi
 
 **Minimal Mistakes** ★1316 (gem: [minimal-mistakes-jekyll](https://rubygems.org/gems/minimal-mistakes-jekyll), github: [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes)) by Michael Rose -- a flexible two-column theme
 
+**Forty** ★139 (gem: [forty_jekyll_theme](https://rubygems.org/gems/forty_jekyll_theme), github: [andrewbanchich/forty-jekyll-theme](https://github.com/andrewbanchich/forty-jekyll-theme)) by Andrew Banchich -- A Jekyll version of the "Forty" theme by HTML5 UP.
+
 **Leonids** ★136 (gem: [leonids](https://rubygems.org/gems/leonids), github: [renyuanz/leonids](https://github.com/renyuanz/leonids)) by Renyuan Zou --  a simple and clean two columns theme
 
 **Neo-HPSTR** ★74 (gem: [neo-hpstr-jekyll-theme](https://rubygems.org/gems/neo-hpstr-jekyll-theme), github: [aron-bordin/neo-hpstr-jekyll-theme](https://github.com/aron-bordin/neo-hpstr-jekyll-theme)) by Aron Bordin --  a responsive and modern blog template.
