@@ -92,7 +92,7 @@ extremely well-documented (incl. a getting started guide and much much more) [Mi
 
 **Garth** ★7 (gem: [garth-jekyll-theme](https://rubygems.org/gems/garth-jekyll-theme), github: [daviddarnes/garth-jekyll-theme](https://github.com/daviddarnes/garth-jekyll-theme)) by David Darnes -- a stupidly simple theme
 
-**whiteglass** ★5 (gem: [jekyll-whiteglass](https://rubygems.org/gems/jekyll-whiteglass), github: [yous/whiteglass](https://github.com/yous/whiteglass)) by Chayoung You -- Minimal, responsible Jekyll theme for hackers.
+**whiteglass** ★5 (gem: [jekyll-whiteglass](https://rubygems.org/gems/jekyll-whiteglass), github: [yous/whiteglass](https://github.com/yous/whiteglass)) by Chayoung You -- Minimal, responsive Jekyll theme for hackers.
 
 **Retlab** ★4 (gem: [retlab](https://rubygems.org/gems/retlab), github: [benbalter/retlab](https://github.com/benbalter/retlab)) by Ben Balter -- a minimalist theme for your personal site
 
