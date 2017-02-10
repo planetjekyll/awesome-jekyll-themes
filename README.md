@@ -1,15 +1,15 @@
 Awesome Series @ Planet Jekyll
 
-[Jekyll](https://github.com/planetjekyll/awesome-jekyll) • 
+[Jekyll](https://github.com/planetjekyll/awesome-jekyll) •
 [Jekyll Themes](https://github.com/planetjekyll/awesome-jekyll-themes) •
 [Jekyll Plugins](https://github.com/planetjekyll/awesome-jekyll-plugins) •
 [Jekyll Editors](https://github.com/planetjekyll/awesome-jekyll-editors)
 
 
 
-# Awesome (Gem-Packaged) Jekyll Themes 
+# Awesome (Gem-Packaged) Jekyll Themes
 
-A collection of awesome (gem-packaged) Jekyll themes 
+A collection of awesome (gem-packaged) Jekyll themes
 
 ---
 
@@ -37,11 +37,11 @@ From the ["Unofficial" Jekyll F.A.Q.](https://github.com/planetjekyll/quickrefs/
 
 **Q: How can I get started with gem-packaged themes? / Do I need to package my theme into a gem?**
 
-Gem-packaged themes are just an advanced option and in addition they are in development 
+Gem-packaged themes are just an advanced option and in addition they are in development
 for (real world) experiments (e.g. think v0.1 as stated by the Ben Balter - the lead designer / manager / dev at GitHub).
 
-Thus, to conclude do NOT read too much into the official themes docs e.g. as the only or "right" way to design a theme. 
-Just (continue to) use "classic" themes - there are hundreds to learn from and once you have mastered "classic" themes 
+Thus, to conclude do NOT read too much into the official themes docs e.g. as the only or "right" way to design a theme.
+Just (continue to) use "classic" themes - there are hundreds to learn from and once you have mastered "classic" themes
 you can "graduate" to the master class, that is, using gem-packaged themes.
 
 Again gem-packaged themes are wonderful and welcome -- remember, however, the party is just getting started:
@@ -56,7 +56,7 @@ For some "classic" starter themes you may try some of Henry's themes:
 - [henrythemes/jekyll-minimal-theme](https://github.com/henrythemes/jekyll-minimal-theme)
 - [henrythemes/jekyll-bootstrap-theme](https://github.com/henrythemes/jekyll-bootstrap-theme)
 
-For the "state-of-the-art" what a "classic" theme can do - see the incredible beautiful and 
+For the "state-of-the-art" what a "classic" theme can do - see the incredible beautiful and
 extremely well-documented (incl. a getting started guide and much much more) [Minimal Mikstake (MM) theme](https://github.com/mmistakes/minimal-mistakes) by Michael Rose. Happy Jekylling.
 
 
@@ -71,7 +71,7 @@ extremely well-documented (incl. a getting started guide and much much more) [Mi
 (gem: [jekyll-swiss](https://rubygems.org/gems/jekyll-swiss),
  github: [broccolini/swiss](https://github.com/broccolini/swiss))
  by Diana Mounter -- a bold typographic theme inspired by Swiss design
- 
+
  **Athena** ★18
 (gem: [jekyll-athena](https://rubygems.org/gems/jekyll-athena),
  github: [broccolini/athena](https://github.com/broccolini/athena))
@@ -96,10 +96,10 @@ extremely well-documented (incl. a getting started guide and much much more) [Mi
 
 **Retlab** ★4 (gem: [retlab](https://rubygems.org/gems/retlab), github: [benbalter/retlab](https://github.com/benbalter/retlab)) by Ben Balter -- a minimalist theme for your personal site
 
-**Overkyll** ★4 (gem: [overkyll-jekyll-theme](https://rubygems.org/gems/overkyll-jekyll-theme), github: [bertrandkeller/overkyll-jekyll-theme](https://github.com/bertrandkeller/overkyll-jekyll-theme)) by Bertrand Keller -- 
+**Overkyll** ★4 (gem: [overkyll-jekyll-theme](https://rubygems.org/gems/overkyll-jekyll-theme), github: [bertrandkeller/overkyll-jekyll-theme](https://github.com/bertrandkeller/overkyll-jekyll-theme)) by Bertrand Keller --
 a simple starter theme with an ITCSS sass files organisation, a flexbox grid and modular typography
 
-**Ace** ★4 (gem: [ace-theme](https://rubygems.org/gems/ace-theme), github: [aliou/ace](https://github.com/aliou/ace)) by Aliou Diallo 
+**Ace** ★4 (gem: [ace-theme](https://rubygems.org/gems/ace-theme), github: [aliou/ace](https://github.com/aliou/ace)) by Aliou Diallo
 
 **Starving Artist** ★1 (gem: [starving-artist](https://rubygems.org/gems/starving-artist-jekyll-theme), github: [chrisanthropic/starving-artist-jekyll-theme](https://github.com/chrisanthropic/starving-artist-jekyll-theme)) by Chris Tarwater -- a mobile friendly portfolio theme.
 
