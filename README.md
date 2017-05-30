@@ -108,6 +108,8 @@ a simple starter theme with an ITCSS sass files organisation, a flexbox grid and
 **Simple Texture** ★1 (gem: [jekyll-theme-simple-texture](https://rubygems.org/gems/jekyll-theme-simple-texture), github: [yizeng/jekyll-theme-simple-texture](https://github.com/yizeng/jekyll-theme-simple-texture)) by Yi Zeng -- a responsive simple texture styled Jekyll theme.
 
 
+**Minima Plus** ★1 (gem: [minima-plus](https://rubygems.org/gems/minima-plus), github: [StartZeroGnu/minima-plus](https://github.com/StartZeroGnu/minima-plus) by StartZeroGnu -- Theme for Jekyll (v.3.2) based on the official theme "minima" with some plugins installed.
+
 ## GitHub Pages
 
 See [`pages.github.com/themes`](https://pages.github.com/themes) for supported "white-listed" gem-packaged themes you can use on GitHub Pages.
