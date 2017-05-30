@@ -105,6 +105,7 @@ a simple starter theme with an ITCSS sass files organisation, a flexbox grid and
 
 **Writers Zone** ★1 (gem: [writers-zone](https://rubygems.org/gems/writers-zone), github: [StartZeroGnu/writers-zone](https://github.com/StartZeroGnu/writers-zone)) by StartZeroGnu -- theme based on the official minima" theme " with some plugins installed.
 
+**Simple Texture** ★1 (gem: [jekyll-theme-simple-texture](https://rubygems.org/gems/jekyll-theme-simple-texture), github: [yizeng/jekyll-theme-simple-texture](https://github.com/yizeng/jekyll-theme-simple-texture)) by Yi Zeng -- a responsive simple texture styled Jekyll theme.
 
 
 ## GitHub Pages
