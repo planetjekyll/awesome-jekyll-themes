@@ -110,7 +110,9 @@ a simple starter theme with an ITCSS sass files organisation, a flexbox grid and
 
 ## GitHub Pages
 
-See [`pages.github.com/themes`](https://pages.github.com/themes) for supported "white-listed" gem-packaged themes you can use on GitHub Pages.
+Use the `theme` property in your `_config.yml` to specify a theme that comes packaged with GitHub Pages. See [`pages.github.com/themes`](https://pages.github.com/themes) for valid values. Use the `remote_theme` property to specify any public, gem-packaged theme on GitHub.
+
+See the docs for [adding a Jekyll theme to your GitHub Pages site](https://help.github.com/articles/adding-a-jekyll-theme-to-your-github-pages-site) for more information.
 
 
 ## Find More
@@ -127,6 +129,3 @@ The awesome list is dedicated to the public domain. Use it as you please with no
 **Questions? Comments?**
 
 Post them to the [jekyll talk forum](http://talk.jekyllrb.com). Thanks!
-
-
-
