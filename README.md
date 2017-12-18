@@ -107,6 +107,7 @@ a simple starter theme with an ITCSS sass files organisation, a flexbox grid and
 
 **Simple Texture** ★1 (gem: [jekyll-theme-simple-texture](https://rubygems.org/gems/jekyll-theme-simple-texture), github: [yizeng/jekyll-theme-simple-texture](https://github.com/yizeng/jekyll-theme-simple-texture)) by Yi Zeng -- a responsive simple texture styled Jekyll theme.
 
+**Help Center Theme** ★2 (gem: [jekyll-help-center-theme](https://rubygems.org/gems/jekyll-help-center-theme), github: [gustavoquinalha/jekyll-help-center-theme](https://github.com/gustavoquinalha/jekyll-help-center-theme) by Gustavo Quinalha -- Simple and responsive Jekyll theme for help center.
 
 ## GitHub Pages
 
