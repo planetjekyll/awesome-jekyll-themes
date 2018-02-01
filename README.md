@@ -82,6 +82,8 @@ extremely well-documented (incl. a getting started guide and much much more) [Mi
 
 **Minimal Mistakes** ★1316 (gem: [minimal-mistakes-jekyll](https://rubygems.org/gems/minimal-mistakes-jekyll), github: [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes)) by Michael Rose -- a flexible two-column theme
 
+**Pixyll** ★1515 (github: [johnotander/pixyll](https://github.com/johnotander/pixyll)) by John Otander -- a simple, beautiful Jekyll theme that's mobile first.
+
 **Forty** ★139 (gem: [forty_jekyll_theme](https://rubygems.org/gems/forty_jekyll_theme), github: [andrewbanchich/forty-jekyll-theme](https://github.com/andrewbanchich/forty-jekyll-theme)) by Andrew Banchich -- A Jekyll version of the "Forty" theme by HTML5 UP.
 
 **Leonids** ★136 (gem: [leonids](https://rubygems.org/gems/leonids), github: [renyuanz/leonids](https://github.com/renyuanz/leonids)) by Renyuan Zou --  a simple and clean two columns theme
