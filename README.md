@@ -113,6 +113,8 @@ a simple starter theme with an ITCSS sass files organisation, a flexbox grid and
 
 **Help Center Theme** ★2 (gem: [jekyll-help-center-theme](https://rubygems.org/gems/jekyll-help-center-theme), github: [gustavoquinalha/jekyll-help-center-theme](https://github.com/gustavoquinalha/jekyll-help-center-theme) by Gustavo Quinalha -- Simple and responsive Jekyll theme for help center.
 
+**Cocoon** ★1 github: [pro-panda/cocoon](https://github.com/pro-panda/cocoon) by Rahul Bothra -- Minimal, single paged blog theme
+
 ## GitHub Pages
 
 Use the `theme` property in your `_config.yml` to specify a theme that comes packaged with GitHub Pages. See [`pages.github.com/themes`](https://pages.github.com/themes) for valid values. Use the `remote_theme` property to specify any public, gem-packaged theme on GitHub.
