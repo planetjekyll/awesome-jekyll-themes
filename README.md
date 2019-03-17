@@ -57,7 +57,7 @@ For some "classic" starter themes you may try some of Henry's themes:
 - [henrythemes/jekyll-bootstrap-theme](https://github.com/henrythemes/jekyll-bootstrap-theme)
 
 For the "state-of-the-art" what a "classic" theme can do - see the incredible beautiful and
-extremely well-documented (incl. a getting started guide and much much more) [Minimal Mikstake (MM) theme](https://github.com/mmistakes/minimal-mistakes) by Michael Rose. Happy Jekylling.
+extremely well-documented (incl. a getting started guide and much much more) [Minimal Mistakes (MM) theme](https://github.com/mmistakes/minimal-mistakes) by Michael Rose. Happy Jekylling.
 
 
 ## Official Themes
