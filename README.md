@@ -117,6 +117,8 @@ a simple starter theme with an ITCSS sass files organisation, a flexbox grid and
 
 **Cocoon** ★1 github: [pro-panda/cocoon](https://github.com/pro-panda/cocoon) by Rahul Bothra -- Minimal, single paged blog theme
 
+**jekyll-rtd-theme** ★2 (gem: [jekyll-rtd-theme](https://rubygems.org/gems/jekyll-rtd-theme), github: [rundocs/jekyll-rtd-theme](https://github.com/rundocs/jekyll-rtd-theme) by RunDcs --full featured from the official ReadtheDocs's  theme
+
 ## GitHub Pages
 
 Use the `theme` property in your `_config.yml` to specify a theme that comes packaged with GitHub Pages. See [`pages.github.com/themes`](https://pages.github.com/themes) for valid values. Use the `remote_theme` property to specify any public, gem-packaged theme on GitHub.
