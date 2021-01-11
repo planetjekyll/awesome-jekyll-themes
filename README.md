@@ -94,7 +94,7 @@ extremely well-documented (incl. a getting started guide and much much more) [Mi
 
 **jekyll-theme-console** ★66 (gem: [jekyll-theme-console](https://rubygems.org/gems/jekyll-theme-console), github: [b2a3e8/jekyll-theme-console](https://github.com/b2a3e8/jekyll-theme-console)) by b2a3e8 --  a jekyll theme inspired by linux consoles for hackers, developers and script kiddies.
 
-**jekyll-theme-yat** ★26 (gem: [jekyll-theme-yat](https://rubygems.org/gems/jekyll-theme-yat), github: [jeffreytse/jekyll-theme-yat](https://github.com/jeffreytse/jekyll-theme-yat)) by jeffreytse -- 🎨 Yet another theme for elegant writers with modern flat style and night mode.
+**jekyll-theme-yat** ★78 (gem: [jekyll-theme-yat](https://rubygems.org/gems/jekyll-theme-yat), github: [jeffreytse/jekyll-theme-yat](https://github.com/jeffreytse/jekyll-theme-yat)) by jeffreytse -- 🎨 Yet another theme for elegant writers with modern flat style and night mode.
 
 **Alembic** ★29 (gem: [alembic-jekyll-theme](https://rubygems.org/gems/alembic-jekyll-theme), github: [daviddarnes/alembic](https://github.com/daviddarnes/alembic)) by David Darnes -- a boilerplate theme
 
