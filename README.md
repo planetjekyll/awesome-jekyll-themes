@@ -82,7 +82,7 @@ extremely well-documented (incl. a getting started guide and much much more) [Mi
 
 **Minimal Mistakes** ★1316 (gem: [minimal-mistakes-jekyll](https://rubygems.org/gems/minimal-mistakes-jekyll), github: [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes)) by Michael Rose -- a flexible two-column theme
 
-**Pixyll** ★1515 (github: [johnotander/pixyll](https://github.com/johnotander/pixyll)) by John Otander -- a simple, beautiful Jekyll theme that's mobile first.
+**Pixyll** ★1515 (github: [johno/pixyll](https://github.com/johno/pixyll)) by John Otander -- a simple, beautiful Jekyll theme that's mobile first.
 
 **Hydejack** ★215 (demo: <https://hydejack.com>, gem: [jekyll-theme-hydejack](https://rubygems.org/gems/jekyll-theme-hydejack), github: [qwtel/hydejack](https://github.com/qwtel/hydejack)) by Florian Klampfer -- "Best Jekyll Theme by a Mile". Blog, portfolio, and resume.
 
