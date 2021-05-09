@@ -125,6 +125,8 @@ a simple starter theme with an ITCSS sass files organisation, a flexbox grid and
 
 **Scaffold** ★6 (gem: [jekyll-theme-scaffold](https://rubygems.org/gems/jekyll-theme-scaffold/), github: [jekyll-theme-scaffold](https://github.com/sziv2p/jekyll-theme-scaffold)) by Songzi Vong -- A minimalist yet powerful Jekyll theme for bloggers
 
+**Moonwalk** ★23 (gem: [moonwalk](https://rubygems.org/gems/moonwalk), github: [moonwalk](https://github.com/abhinavs/moonwalk)) by Abhinav Saxena -- A fast and minimal Jekyll blog theme with clean dark mode
+
 ## GitHub Pages
 
 Use the `theme` property in your `_config.yml` to specify a theme that comes packaged with GitHub Pages. See [`pages.github.com/themes`](https://pages.github.com/themes) for valid values. Use the `remote_theme` property to specify any public, gem-packaged theme on GitHub.
