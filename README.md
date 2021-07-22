@@ -127,7 +127,7 @@ a simple starter theme with an ITCSS sass files organisation, a flexbox grid and
 
 **Moonwalk** ★23 (gem: [moonwalk](https://rubygems.org/gems/moonwalk), github: [moonwalk](https://github.com/abhinavs/moonwalk)) by Abhinav Saxena -- A fast and minimal Jekyll blog theme with clean dark mode
 
-**minimal-bootstrap-theme** ★0 (github: [andrewhwanpark/minimal-bootstrap-blog](https://github.com/andrewhwanpark/minimal-bootstrap-blog)) by John Otander -- a simple, beautiful Jekyll theme that's mobile first.
+**minimal-bootstrap-theme** ★0 (github: [andrewhwanpark/minimal-bootstrap-blog](https://github.com/andrewhwanpark/minimal-bootstrap-blog)) by Andrew Park -- a no frills, fully-responsive, hyper-minimalistic dark/light theme made with bootstrap-dark-5.
 
 ## GitHub Pages
 
