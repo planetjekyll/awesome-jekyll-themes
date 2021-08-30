@@ -127,7 +127,7 @@ a simple starter theme with an ITCSS sass files organisation, a flexbox grid and
 
 **Moonwalk** ★23 (gem: [moonwalk](https://rubygems.org/gems/moonwalk), github: [moonwalk](https://github.com/abhinavs/moonwalk)) by Abhinav Saxena -- A fast and minimal Jekyll blog theme with clean dark mode
 
-**brutalist-blog** ★0 (github: [andrewhwanpark/brutalist-blog](https://github.com/andrewhwanpark/brutalist-blog)) by Andrew Park -- a no frills, fully-responsive, hyper-minimalistic dark/light theme
+**brutalist-blog** ★2 (github: [andrewhwanpark/brutalist-blog](https://github.com/andrewhwanpark/brutalist-blog)) by Andrew Park -- a no frills, fully-responsive, hyper-minimalistic dark/light theme
 ## GitHub Pages
 
 Use the `theme` property in your `_config.yml` to specify a theme that comes packaged with GitHub Pages. See [`pages.github.com/themes`](https://pages.github.com/themes) for valid values. Use the `remote_theme` property to specify any public, gem-packaged theme on GitHub.
